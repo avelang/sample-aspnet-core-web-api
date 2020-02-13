@@ -1,5 +1,7 @@
-# test-web-api
+# sample-aspnet-core-web-api
 sample app in asp.net core web api 
+
+https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-web-api?view=aspnetcore-3.1&tabs=visual-studio
 
 // Build
 - build a sample-aspnet-web-api
